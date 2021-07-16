@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/AndrewKardash/pass-app.git/static/js/main.4b4920e1.chunk.js",
+    "main.js.map": "/AndrewKardash/pass-app.git/static/js/main.4b4920e1.chunk.js.map",
+    "runtime-main.js": "/AndrewKardash/pass-app.git/static/js/runtime-main.9a8d52df.js",
+    "runtime-main.js.map": "/AndrewKardash/pass-app.git/static/js/runtime-main.9a8d52df.js.map",
+    "static/js/2.b1af8cd6.chunk.js": "/AndrewKardash/pass-app.git/static/js/2.b1af8cd6.chunk.js",
+    "static/js/2.b1af8cd6.chunk.js.map": "/AndrewKardash/pass-app.git/static/js/2.b1af8cd6.chunk.js.map",
+    "index.html": "/AndrewKardash/pass-app.git/index.html",
+    "static/js/2.b1af8cd6.chunk.js.LICENSE.txt": "/AndrewKardash/pass-app.git/static/js/2.b1af8cd6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a8d52df.js",
+    "static/js/2.b1af8cd6.chunk.js",
+    "static/js/main.4b4920e1.chunk.js"
+  ]
+}
